@@ -1,3 +1,7 @@
+# Weather App GUI - Screenshot
+
+![Screenshot](https://github.com/sanatMahajan/Weather-App/blob/master/screenshots/Screenshot.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
